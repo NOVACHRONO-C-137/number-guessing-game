@@ -8,15 +8,12 @@ This project focuses on **DOM manipulation**, making it a great exercise to unde
 ## 🚀 Live Demo  
 👉 [Play the Game](https://novachrono-c-137.github.io/number-guessing-game/)  
 
-*(Replace `your-username` and `repo-name` with your actual GitHub username and repository name.)*  
-
 ---
 
 ## 📸 Features  
 - Random number generation 🔢  
-- Input checking with instant feedback ✅/❌  
 - Dynamic UI updates (messages, styles, etc.) 🎨  
-- Beginner-friendly and lightweight 🌱  
+
 
 ---
 
