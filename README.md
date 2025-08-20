@@ -27,11 +27,4 @@ This project focuses on **DOM manipulation**, making it a great exercise to unde
 ## 🎯 Learning Highlights  
 - Practiced **querying and manipulating DOM elements**  
 - Learned **event handling** and **real-time UI updates**  
-- Understood how small logic can become an **interactive game**  
-
----
-
-## 📂 How to Run Locally  
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/your-username/repo-name.git
+- Understood how small logic can become an **interactive game** 
